@@ -56,8 +56,8 @@
       "module": "divine-careers"
     }
   ],
-  "url": "https://github.com/hellogriffalo/foundryvtt-divine-careers",
+  "url": "https://github.com/hellogriffalo/Divine-Careers",
   "minimumCoreVersion": "0.5.2",
-  "manifest": "https://raw.githubusercontent.com/hellogriffalo/foundryvtt-divine-careers/master/divine-careers/module.json",
-  "download": "https://github.com/hellogriffalo/foundryvtt-divine-careers/blob/master/divine-careers.zip" 
+  "manifest": "https://github.com/hellogriffalo/Divine-Careers/blob/master/module.json",
+  "download": "https://github.com/hellogriffalo/Divine-Careers/archive/master.zip" 
 }
