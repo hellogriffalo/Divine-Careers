@@ -6,7 +6,7 @@ Divine Careers is a small module that adds additional items for Cleric-type WFRP
 
 Install [WFRP4e Game System](https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT).
 
-Install Divine Careers using manifest URL: (https://raw.githubusercontent.com/Forien/foundryvtt-forien-armoury/master/module.json)
+Install Divine Careers using manifest URL: (https://github.com/hellogriffalo/Divine-Careers/blob/master/module.json)
 
 While in World using WFRP4e game system, enable Forien's Armoury module
 
