@@ -1,0 +1,63 @@
+{   
+   "name": "divine-careers",   
+   "title": "Divine Careers",   
+   "description": "Adds fan-made specialisations for Cleric careers, new items, rules and a Miracle",   
+   "author": "Matt Griffiths",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.5.5",
+   "packs": [
+    {
+      "name": "Divine-Careers",
+      "label": "Divine Careers",
+      "path": "packs/divine-careers.db",
+      "entity": "Item",
+      "system": "wfrp4e",
+      "module": "divine-careers"
+    },
+    {
+  "name": "Talents",
+      "label": "Talents",
+      "path": "packs/talents.db",
+      "entity": "Item",
+      "system": "wfrp4e",
+      "module": "divine-careers"
+    },
+    {
+  "name": "Trappings",
+      "label": "Trappings",
+      "path": "packs/trappings.db",
+      "entity": "Item",
+      "system": "wfrp4e",
+      "module": "divine-careers"
+    },
+    {
+  "name": "Skills",
+      "label": "Skills",
+      "path": "packs/skills.db",
+      "entity": "Item",
+      "system": "wfrp4e",
+      "module": "divine-careers"
+    },
+    {
+  "name": "Miracles",
+      "label": "Miracles",
+      "path": "packs/miracles.db",
+      "entity": "Item",
+      "system": "wfrp4e",
+      "module": "divine-careers"
+    },
+    {
+      "name": "actors",
+      "label": "Actors",
+      "path": "packs/actors.db",
+      "entity": "Actor",
+      "system": "wfrp4e",
+      "module": "divine-careers"
+    }
+  ],
+  "url": "https://github.com/hellogriffalo/foundryvtt-divine-careers",
+  "minimumCoreVersion": "0.5.2",
+  "manifest": "https://raw.githubusercontent.com/hellogriffalo/foundryvtt-divine-careers/master/divine-careers/module.json",
+  "download": "https://github.com/hellogriffalo/foundryvtt-divine-careers/blob/master/divine-careers.zip" 
+}
