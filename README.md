@@ -8,7 +8,9 @@ Install [WFRP4e Game System](https://github.com/CatoThe1stElder/WFRP-4th-Edition
 
 Install Divine Careers using manifest URL: (https://raw.githubusercontent.com/hellogriffalo/Divine-Careers/master/module.json)
 
-While in World using WFRP4e game system, enable Forien's Armoury module
+While in World using WFRP4e game system, enable Divine Careers
+
+Marks of the Gods are now rollable tables, to use these the syntax in chat is /table <god>, example /table rhya will roll for Divine Marks of Rhya.
 
 ## Contents
 
@@ -17,6 +19,8 @@ All varieties of the career variants new talents, and profile detailed in [Initi
 Rule Variants and minor items from [Petty Piety](https://redworldpress.itch.io/le-petty-piety), [Liber Etcetera](https://liberetc.blogspot.com/) by [Ben Scerri](https://twitter.com/ben_scerri)
 
 New item from [Graeme Davis'](https://graemedavis.wordpress.com/2020/06/29/let-us-bling-a-ring-for-clerics/) blog.
+
+Marks of the Gods adapted from 2nd Edition Tome of Salvation.
 
 ## Bug Reports
 If you find a bug or error, please report it to me using [this](https://forms.gle/dETt2XqjLQpqCTDK9) form.
