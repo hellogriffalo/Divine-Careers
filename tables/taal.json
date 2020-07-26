@@ -1,0 +1,88 @@
+{
+  "name": "Divine Marks - Taal",
+  "die": "1d10",
+  "hide": true,
+  "rows": [
+    {
+      "name": "Wild Mind",
+      "description": "High-mindedness is not your forte. Reduce your Intelligence by 5.",
+      "range": [
+        1,
+        1
+      ],
+      "roll": 1
+    },
+    {
+      "name": "Little Friends",
+      "description": "Small creatures find you attractive. Gnawed possessions and animal droppings are the byproduct. You take a -10 penalty to Fellowship Tests when those creatures would be inappropriate.",
+      "range": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Beast Mark",
+      "description": "You manifest an animalistic trait (fur, scales, horns) on a part of your body (roll d100 for Hit Location). At GM discretion it may incur a -10 penalty to Fellowship based tests.",
+      "range": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "Claustrophobia",
+      "description": "You hate being penned in. When unable to see the open sky, you suffer a -10 penalty to Cool Tests. This penalty increases the more enclosed you are, at GM's discretion.",
+      "range": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Taal's Mien",
+      "description": "You grow tall and strong, your hair shaggy. Grow 1d10/2 inches taller and 2d10 pounds heavier. Increase your Fellowship Characteristic by 5",
+      "range": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Animal Friend",
+      "description": "You are at one with the beasts. Gain the Animal Affinity Talent, and all other beasts (e.g. controlled) must pass a Difficult Willpower test to attack you.",
+      "range": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Musky Scent",
+      "description": "You exude an... interesting aroma. Gain a +5 bonus when Charming those who might find you attractive, but take a -10 penalty to Fellowship tests where your animal scent would be inappropriate.",
+      "range": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Tranquil Fauna",
+      "description": "Animals are calmed by you. Gain a +10 bonus to Animal Care and Animal Training Tests.",
+      "range": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Beast Senses",
+      "description": "You have naturally sharp senses. Gain a +20 bonus to Perception Tests.",
+      "range": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Marked by Taal",
+      "description": "A symbol of Taal appears as a mark somewhere on your body (roll 1d100 for Hit Location). You gain +10 bonus to Pray tests when using Miracles of Taal, and +10 bonus to Fellowship tests when dealing with other followers of Taal if they can see the mark.",
+      "range": [
+        10,
+        10
+      ]
+    }
+  ]
+}

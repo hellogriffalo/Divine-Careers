@@ -1,0 +1,88 @@
+{
+  "name": "Divine Marks - Rhya",
+  "die": "1d10",
+  "hide": true,
+  "rows": [
+    {
+      "name": "Wild Mind",
+      "description": "High-mindedness is not your forte. Reduce your Intelligence by 5.",
+      "range": [
+        1,
+        1
+      ],
+      "roll": 1
+    },
+    {
+      "name": "Little Friends",
+      "description": "Small creatures find you attractive. Gnawed possessions and animal droppings are the byproduct. You take a -10 penalty to Fellowship Tests when those creatures would be inappropriate.",
+      "range": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Plant Growth",
+      "description": "Holy plant life thrives somewhere on your body (roll 1d100 for Hit Location). At the GM's discretion, this may apply a -10 penalty to Fellowship tests in some situations.",
+      "range": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "Seasonal",
+      "description": "Your body changes through the year. During the winter, reduce your Wounds by 2 and your Movement by 1. In autumn, reduce your Wounds by 1. In spring, increase your Wounds by 1. In summer, increase your Wounds by 2 and your Movement characteristic by 1",
+      "range": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Rhya's Mien",
+      "description": "You grow curvaceous and ripe. Grow 1d10/2 inches taller and 2d10 pounds heavier. Increase your Fellowship Characteristic by 5.",
+      "range": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Trackless Step",
+      "description": "The forests hide you, and leaves are silent underfoot. Gain the Rover Talent.",
+      "range": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Enlivened Flora",
+      "description": "Whenever you remain in a natural setting for more than a round, all living plants within 4 yards grow healthy and lush. Whilst you suffer no ill effects, the area counts as difficult terrain to others and remains so until trimmed back.",
+      "range": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Nature's Bounty",
+      "description": "Rhya provides for you. Gain a +10 bonus to all Outdoor Survival Tests.",
+      "range": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Floral Scent",
+      "description": "You exude a natural scent of flowers and herbs. Gain a +5 bonus to Charm Tests.",
+      "range": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Marked by Rhya",
+      "description": "A symbol of Rhya appears as a mark somewhere on your body (roll 1d100 for Hit Location). You gain +10 bonus to Pray tests when using Miracles of Rhya, and +10 bonus to Fellowship tests when dealing with other followers of Rhya if they can see the mark.",
+      "range": [
+        10,
+        10
+      ]
+    }
+  ]
+}

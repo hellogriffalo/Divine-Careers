@@ -1,0 +1,88 @@
+{
+  "name": "Divine Marks - Manann",
+  "die": "1d10",
+  "hide": true,
+  "rows": [
+    {
+      "name": "Fishy",
+      "description": "You are infused with the odours of the sea. Permanently reduce your Fellowship by 5.",
+      "range": [
+        1,
+        1
+      ],
+      "roll": 1
+    },
+    {
+      "name": "Pelagic Yearning",
+      "description": "You long for the open sea. When not on or surrounded by the sea, your Willpower is reduced by 5.",
+      "range": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Seaweed Growth",
+      "description": "Holy seaweed thrives somewhere on your body. Roll 1d100 to determine Hit Location to find out where. At GM discretion it may incur a -10 penalty to Fellowship based tests.",
+      "range": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "Tidal",
+      "description": "You are bound by the tides. During low tide, reduce your Toughness Bonus by 1. At high tide, your Toughness Bonus is increased by 1. At all other times your characteristics are unchanged.",
+      "range": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Manann's Mien",
+      "description": "You grow taller, your hair darkens and you develop a briny smell. Add 1d10/2 inches to your height, 2d10 pounds to your weight, and 5 to your Strength.",
+      "range": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Piscine Charisma",
+      "description": "You become intensely attractive to fish. They greet you in open-mouthed wonder and shoal around you when you are in the water. For this reason, sea birds love you. You gain a +20 bonus to Charm Animal tests towards sea birds.",
+      "range": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Riptides",
+      "description": "Large bodies of water twist in your presence. All Swim tests made by others within 4 yards of you take a -20 penalty, and a -10 penalty between 4 and 12 yards.",
+      "range": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Webbed",
+      "description": "Your toes and fingers become webbed. Gain a +20 bonus to Swim tests.",
+      "range": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "One With The Sea",
+      "description": "You cannot drown in seawater - if you would, you are instead reduced to 0 Wounds and gain the Unconscious Condition, either floating in the water or washed to shore. Add +10 to all Sail, Row and Navigation tests whilst at sea.",
+      "range": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Marked by Manann",
+      "description": "A symbol of Manann appears as a mark somewhere on your body (roll 1d100 for Hit Location). You gain +10 bonus to Pray tests when using Miracles of Manann, and +10 bonus to Fellowship tests when dealing with other followers of Manann if they can see the mark.",
+      "range": [
+        10,
+        10
+      ]
+    }
+  ]
+}

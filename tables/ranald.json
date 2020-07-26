@@ -1,0 +1,88 @@
+{
+  "name": "Divine Marks - Ranald",
+  "die": "1d10",
+  "hide": true,
+  "rows": [
+    {
+      "name": "Weak Willed",
+      "description": "Permanently reduce your Willpower by 1d10.",
+      "range": [
+        1,
+        1
+      ],
+      "roll": 1
+    },
+    {
+      "name": "Liar",
+      "description": "Falsehoods slip easily from your tongue. Gain a +10 bonus to Charm tests when employing the Blather Talent.",
+      "range": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Knavish",
+      "description": "People point to you as the very definition of 'roguish'. Take a -10 penalty to all Fellowship tests when interacting with nobles, priests or anyone else who might have reason to distrust you.",
+      "range": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "Lithe",
+      "description": "Increase your Agility by 1d10, but reduce your Toughness by the same amount (which may reduce your Toughness Bonus). Also lose 2d10 pounds.",
+      "range": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Ranald's Mien",
+      "description": "You become leaner and more swarthy, and a mischievous smile always plays at your lips. Lose 2d10 pounds but gain 1d10 Fellowship.",
+      "range": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Cat Friend",
+      "description": "You attract cats everwhere. At least one shows up whenever you enter a community, and each day you remain (1d10/2)-1 more show up. They cannot fight for you byt you gain +20 to Charm Animal tests towards cats. When you leave a community the cats usually do not follow.",
+      "range": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Forgettable",
+      "description": "You're... that fellow. Or maybe a girl? You definitely had a head. Those who interact with you for several hours must pass a Challenging Intelligence test to recall anything other than your flashing eyes and roguish smile.",
+      "range": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Eagle Eyes",
+      "description": "You have the keen eyes of an eagle. Gain +20 bonus to Perception tests involving sight.",
+      "range": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Ranald's Luck",
+      "description": "Whenever you use a Fortune Point, roll 1d10. If you roll 8, 9 or 10 the Fortune Point works as normal but is not spent.",
+      "range": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Marked by Ranald",
+      "description": "A symbol of Ranald appears as a mark somewhere on your body (roll 1d100 for Hit Location). You gain +10 bonus to Pray tests when using Miracles of Ranald, and +10 bonus to Fellowship tests when dealing with other followers of Ranald if they can see the mark.",
+      "range": [
+        10,
+        10
+      ]
+    }
+  ]
+}

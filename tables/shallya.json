@@ -1,0 +1,88 @@
+{
+  "name": "Divine Marks - Shallya",
+  "die": "1d10",
+  "hide": true,
+  "rows": [
+    {
+      "name": "Pacifist",
+      "description": "The thought of striking another sickens you. Permanently reduce Weapon Skill and Ballistic Skill by 5.",
+      "range": [
+        1,
+        1
+      ],
+      "roll": 1
+    },
+    {
+      "name": "Bleeding Heart",
+      "description": "Suffering takes its toll on you. Whenever you are near a creature in pain, take a -10 penalty to all Willpower tests. Should you leave the individual unattended, the penalty increases to -20 and lasts for 24 hours.",
+      "range": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Fear of the Fly Lord",
+      "description": "The servants of hated Nurgle disturb you. When in the presence of flies, rats or other vermin, take a -10 penalty to Willpower Tests.",
+      "range": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "Unworthiness",
+      "description": "Nothing you do is enough, especially if you could not heal the wounds or save the life of those you encounter. You take a -10 penalty to Fellowship Tests due to your constant self-deprecation.",
+      "range": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Shallya's Mien",
+      "description": "Your face looks more innocent, and your eyes constantly stream holy tears. You gain a permanent -10 penalty to Perception tests involving sight, but permananly increase Fellowship by 5. When you succeed in a Heal test, heal 1 extra Wound.",
+      "range": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Peaceful Demeanour",
+      "description": "Your presence is a balm to beasts. Gain the Animal Affinity Talent.",
+      "range": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Emboldened",
+      "description": "You would sooner die than retreat from your duty to help the sick and infirm. So long as there are those in need of help or portection, you may act normally while under the effects of Fear or Terror, so long as your actions involve non-violently helping those in need.",
+      "range": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Healing Hands",
+      "description": "Your touch cools and soothes. Whenever you succeed at a Heal Test, heal 2 additional Wounds.",
+      "range": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Tranquil Aura",
+      "description": "You exude peace and tranquility. All creatures within 4 yards take a -10 penalty to Weapon Skill and Ballistic Skill tests. This does not apply to creatures with the Daemonic or Undead traits.",
+      "range": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Marked by Shallya",
+      "description": "A symbol of Shallya appears as a mark somewhere on your body (roll 1d100 for Hit Location). You gain +10 bonus to Pray tests when using Miracles of Shallya, and +10 bonus to Fellowship tests when dealing with other followers of Shallya if they can see the mark.",
+      "range": [
+        10,
+        10
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Divine Marks - Myrmidia",
+  "die": "1d10",
+  "hide": true,
+  "rows": [
+    {
+      "name": "Vengeful",
+      "description": "You are blinded to reason. Reduce your Intelligence by 5.",
+      "range": [
+        1,
+        1
+      ],
+      "roll": 1
+    },
+    {
+      "name": "Rites of War",
+      "description": "You must take a full action before combat to recite the honourable terms of engagement. Until that is completed you take a -5 penalty to Weapon Skill.",
+      "range": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Calculating",
+      "description": "You see every other person as a potential threat. Take a -10 penalty to Fellowship when dealing with someone you meet for the first time.",
+      "range": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "Righteous Fury",
+      "description": "You are driven to punish the wicked and uphold honour. When fighting an opponent who has harmed you or an ally, take a -10 penalty to Intelligence but gain a +10 bonus to both Strength and Willpower for the duration of the encounter.",
+      "range": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Myrmidia's Mien",
+      "description": "Your skin becomes bronzed. Gain 1d10/5 inches in height and gain a +10 bonus to Leadership tests.",
+      "range": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Piscine Charisma",
+      "description": "You become intensely attractive to fish. They greet you in open-mouthed wonder and shoal around you when you are in the water. For this reason, sea birds love you. You gain a +20 bonus to Charm Animal tests towards sea birds.",
+      "range": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Eagle's Friend",
+      "description": "You gain a +20 bonus to Charm Animal tests towards eagles.",
+      "range": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Eagle Eyes",
+      "description": "You have the keen eyes of an eagle. Gain +20 bonus to Perception tests involving sight.",
+      "range": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Fanatical Love",
+      "description": "You may select one ally who is displaying a symbol of Myrmidia in combat. For the round, that ally gains +10 bonus to all Willpower tests.",
+      "range": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Marked by Myrmidia",
+      "description": "A symbol of Myrmidia appears as a mark somewhere on your body (roll 1d100 for Hit Location). You gain +10 bonus to Pray tests when using Miracles of Myrmidia, and +10 bonus to Fellowship tests when dealing with other followers of Myrmidia if they can see the mark.",
+      "range": [
+        10,
+        10
+      ]
+    }
+  ]
+}

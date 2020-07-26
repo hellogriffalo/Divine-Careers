@@ -1,0 +1,88 @@
+{
+  "name": "Divine Marks - Verena",
+  "die": "1d10",
+  "hide": true,
+  "rows": [
+    {
+      "name": "Haughty",
+      "description": "The less learned irritate you, which is practically everybody. Reduce your Fellowship by 5.",
+      "range": [
+        1,
+        1
+      ],
+      "roll": 1
+    },
+    {
+      "name": "Daemon's Advocate",
+      "description": "You're compelled to argue. If you allow an opinion to go unchallenged, take a -10 penalty to all Willpower tests for 24 hours.",
+      "range": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Just Heart",
+      "description": "Injustice is anathema to you. Whenever you see it, you must speak out unless you pass a Difficult Willpower Test.",
+      "range": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "Piercing Gaze",
+      "description": "Like Verena, you see all. Gain a +10 bonus to Perception tests involving sight, but take a -10 penalty to Charm tests.",
+      "range": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Verena's Mien",
+      "description": "With straight back and clear eyes, you grow 1d10/2 inches and increase your Intelligence by 5.",
+      "range": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Owl Friend",
+      "description": "Gain a +20 bonus on Charm Animal tests when dealing with owls.",
+      "range": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Eidetic Memory",
+      "description": "Nothing escapes your mind once it's there. Gain the Tower of Memories Talent.",
+      "range": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Voice of Wisdom",
+      "description": "Verena Herself speaks through you. Double the number of people you can affect with a Charm Test.",
+      "range": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Enlightened",
+      "description": "You gain just a fragment of Verena's vast knowledge. You gain a +10 bonus to any and all Lore Skill Tests you have. Lore Skill Tests you do not have may still be attempted with a -20 penalty.",
+      "range": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Marked by Verena",
+      "description": "A symbol of Verena appears as a mark somewhere on your body (roll 1d100 for Hit Location). You gain +10 bonus to Pray tests when using Miracles of Verena, and +10 bonus to Fellowship tests when dealing with other followers of Verena if they can see the mark.",
+      "range": [
+        10,
+        10
+      ]
+    }
+  ]
+}

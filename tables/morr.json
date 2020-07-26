@@ -1,0 +1,88 @@
+{
+  "name": "Divine Marks - Morr",
+  "die": "1d10",
+  "hide": true,
+  "rows": [
+    {
+      "name": "Enervated",
+      "description": "Reduce your Strength by 5.",
+      "range": [
+        1,
+        1
+      ],
+      "roll": 1
+    },
+    {
+      "name": "Distracted by Death",
+      "description": "Your preoccupation with death makes you creepy. When interacting with individuals outside of the Cult, take a -10 penalty to Fellowship.",
+      "range": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Disturbing Visions",
+      "description": "You are plagued with portentous visions that you struggle to interpret. Take a -10 Penalty to Perception, but once per day you can gain a +10 bonus to any one test.",
+      "range": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "Skeletal",
+      "description": "Your face and scalp draw in tightly. Take a -10 penalty to Charm, but gain a +10 bonus to Intimidate.",
+      "range": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Morr's Mien",
+      "description": "You grow taller, your hair darkens and your skin pales. You are cool to the touch. Add 1d10/2 inches to your height and increase your Willpower by 5.",
+      "range": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Flock of Ravens",
+      "description": "Ravens are always present where you go. Indoors you glimpse them through windows, and even underground you see raven cave paintings or raven-shaped rock formations with disturbing regularity. You gain +20 to Charm Animal tests towards ravens.",
+      "range": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Dead Eyes",
+      "description": "Your gaze causes others to flinch. You gain the Frightening Talent, but the GM decides who it applies to.",
+      "range": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Morr's Servant",
+      "description": "Sentient Undead shy from your presence. You have Fear 1 towards creatures with the Undead Trait. If they also possess the Construct trait, they cannot approach you.",
+      "range": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Enlightened",
+      "description": "You have gazed beyond Morr's Portal. You are completely Fearless.",
+      "range": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Marked by Morr",
+      "description": "A symbol of Morr appears as a mark somewhere on your body (roll 1d100 for Hit Location). You gain +10 bonus to Pray tests when using Miracles of Morr, and +10 bonus to Fellowship tests when dealing with other followers of Morr if they can see the mark.",
+      "range": [
+        10,
+        10
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Divine Marks - Ulric",
+  "die": "1d10",
+  "hide": true,
+  "rows": [
+    {
+      "name": "Berserker",
+      "description": "Your love for Ulric is like a truck. Every round of combat you must pass a Challenging Willpower Test or immediately enter Frenzy as if you had that Talent.",
+      "range": [
+        1,
+        1
+      ],
+      "roll": 1
+    },
+    {
+      "name": "Claws",
+      "description": "Your fingernails lengthen until they are wickedly sharp claws. Permanently reduce your Ballistic Skill by 5, but you may attack as if armed with a hand weapon even when unarmed (though you may not parry with these claws).",
+      "range": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Wolf's Eyes",
+      "description": "The Winter Wolf's mark is on you. Gain the Night Vision Talent, but you can no longer see colour.",
+      "range": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "Predator",
+      "description": "People take one look at you and see a killer. You take a -10 penalty to Charm tests, but a +10 bonus to intimidate tests.",
+      "range": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Ulric's Mien",
+      "description": "Your hair darkens and your body bulks. Your skin is pale and ice cold. Add 1d10/2 to height and 2d10 pounds to your weight. Permanently increase Strength by 5.",
+      "range": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Ulric's Servant",
+      "description": "You have experienced true cold - a little weather is nothing. You no longer suffer the harmful effects of cold, unless inflicted by Ulric himself.",
+      "range": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Wolf Friend",
+      "description": "You attract a lupine companion. The creature is loyal and will fight for you, but will abandon you if you treat it poorly. You may gain this trait multiple times, and thus gain multiple wolves.",
+      "range": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Pack leader",
+      "description": "Others look to you as the alpha. You gain a +10 bonus to Leadership tests.",
+      "range": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "One With The Wild",
+      "description": "No secrets of the wilderness are hidden from you. gain a +10 bonus to all Outdoor Survival Tests.",
+      "range": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Marked by Ulric",
+      "description": "A symbol of Ulric appears as a mark somewhere on your body (roll 1d100 for Hit Location). You gain +10 bonus to Pray tests when using Miracles of Ulric, and +10 bonus to Fellowship tests when dealing with other followers of Ulric if they can see the mark.",
+      "range": [
+        10,
+        10
+      ]
+    }
+  ]
+}

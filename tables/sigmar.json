@@ -1,0 +1,88 @@
+{
+  "name": "Divine Marks - Sigmar",
+  "die": "1d10",
+  "hide": true,
+  "rows": [
+    {
+      "name": "Stubborn",
+      "description": "Your devotion to Sigmar's cause is unshakable. Reduce Intelligence by 5.",
+      "range": [
+        1,
+        1
+      ],
+      "roll": 1
+    },
+    {
+      "name": "Hammer Bearer",
+      "description": "When wealding any type of Hammer weapon, you deal an extra 1 damage. However, you gain a -10 penalty to all Ballistic Skill tests.",
+      "range": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Suspicious",
+      "description": "You are ever vigilant against the Ruinous Powers. Take a -10 penalty to Fellowship Tests when meeting someone for the first time.",
+      "range": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "Grudge Bearer",
+      "description": "You don't forgive easily. When fighting an opponent who has harmed you or an ally, take a -10 penalty to Intelligence Tests, bug tain a +10 bonus to Strength and Willpower Tests for the duration of the encounter.",
+      "range": [
+        4,
+        4
+      ]
+    },
+    {
+      "name": "Sigmar's Mien",
+      "description": "Your hair lightens as your body bulks out and your eyes turn blue. gain 1d10/2 inches of height and 2d10 pounds of weight, and increase your Toughness by 5 (which may affect your Toughness Bonus).",
+      "range": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "Dawongr (\"Dwarf Friend\")",
+      "description": "Your bearing invokes the ancient Dwarven promises to Sigmar. You gain a +10 bonus to Fellowship Tests when dealing with Dwarves.",
+      "range": [
+        6,
+        6
+      ]
+    },
+    {
+      "name": "Greenskin Animosity",
+      "description": "You loathe goblins and their kind. You gain the Frenzy Talent which applies whenever you encounter goblinoids.",
+      "range": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Symbol of Unity",
+      "description": "You stoke pride in the Empire. The first time during an encounter a citizen of the Empire within 6 yards of you makes a Weapon Skill or Ballistic Skill test against another Empire citizen, they take a -10 penalty.",
+      "range": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Enlightened",
+      "description": "You are filled with Sigmar's courage. When combating Greenskins or the servants of Chaos, you automatically pass Willpower tests.",
+      "range": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Marked by Sigmar",
+      "description": "A symbol of Sigmar appears as a mark somewhere on your body (roll 1d100 for Hit Location). You gain +10 bonus to Pray tests when using Miracles of Sigmar, and +10 bonus to Fellowship tests when dealing with other followers of Sigmar if they can see the mark.",
+      "range": [
+        10,
+        10
+      ]
+    }
+  ]
+}
