@@ -26,7 +26,11 @@ Marks of the Gods adapted from 2nd Edition Tome of Salvation.
 If you find a bug or error, please report it to me using [this](https://forms.gle/dETt2XqjLQpqCTDK9) form.
 
 ## Copyrights
-All original material belongs to the aforementioned authors. No infringement intended. 
+All original material belongs to the aforementioned authors. No infringement intended.
+
+Icons created from free-to-use resources from https://icons8.com
+Child of Ulric art created from free images from http://www.pexels.com and resources from www.nucly.com
+Prayer ring imagery taken from  https://graemedavis.wordpress.com/2020/06/29/let-us-bling-a-ring-for-clerics/
 
 This module is completely unofficial and in no way endorsed by Games Workshop Limited. Chaos, the Chaos device, the Chaos logo, Citadel, Citadel Device, Darkblade, the Double-Headed/ Imperial Eagle device, ‘Eavy Metal, Forge World, Games Workshop, Games Workshop logo, Golden Demon, Great Unclean One, GW, the Hammer of Sigmar logo, Horned Rat logo, Keeper of Secrets, Khemri, Khorne, the Khorne logo, Lord of Change, Nurgle, the Nurgle logo, Skaven, the Skaven symbol devices, Slaanesh, the Slaanesh logo, Tomb Kings, Trio of Warriors, Twin Tailed Comet Logo, Tzeentch, the Tzeentch logo, Warhammer, Warhammer Online, Warhammer
 World logo, White Dwarf, the White Dwarf logo, and all associated marks, names, races, race insignia, characters, vehicles, locations, units, illustrations and images from the Warhammer world are either ®, TM and/or © Copyright Games Workshop Ltd 2000-2020, variably registered in the UK and other countries around the world.
