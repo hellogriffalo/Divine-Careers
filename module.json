@@ -17,7 +17,7 @@
     },
     {
   "name": "Talents",
-      "label": "Talents",
+      "label": "Divine Careers Talents",
       "path": "packs/talents.db",
       "entity": "Item",
       "system": "wfrp4e",
@@ -25,7 +25,7 @@
     },
     {
   "name": "Trappings",
-      "label": "Trappings",
+      "label": "Divine Careers Trappings",
       "path": "packs/trappings.db",
       "entity": "Item",
       "system": "wfrp4e",
@@ -33,7 +33,7 @@
     },
     {
   "name": "Skills",
-      "label": "Skills",
+      "label": "Divine Careers Skills",
       "path": "packs/skills.db",
       "entity": "Item",
       "system": "wfrp4e",
@@ -41,7 +41,7 @@
     },
     {
   "name": "Miracles",
-      "label": "Miracles",
+      "label": "Divine Careers Miracles",
       "path": "packs/miracles.db",
       "entity": "Item",
       "system": "wfrp4e",
@@ -49,15 +49,15 @@
     },
     {
       "name": "actors",
-      "label": "Actors",
+      "label": "Divine Careers Actors",
       "path": "packs/actors.db",
       "entity": "Actor",
       "system": "wfrp4e",
       "module": "divine-careers"
     }
   ],
-  "url": "https://github.com/hellogriffalo/Divine-Careers",
+  "url": "https://github.com/hellogriffalo/foundryvtt-divine-careers",
   "minimumCoreVersion": "0.5.2",
-  "manifest": "https://raw.githubusercontent.com/hellogriffalo/Divine-Careers/master/module.json",
-  "download": "https://github.com/hellogriffalo/Divine-Careers/archive/master.zip" 
+  "manifest": "https://raw.githubusercontent.com/hellogriffalo/foundryvtt-divine-careers/master/divine-careers/module.json",
+  "download": "https://github.com/hellogriffalo/foundryvtt-divine-careers/blob/master/divine-careers.zip" 
 }
