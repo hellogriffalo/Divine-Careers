@@ -58,6 +58,6 @@
   ],
   "url": "https://github.com/hellogriffalo/divine-careers",
   "minimumCoreVersion": "0.5.2",
-  "manifest": "https://raw.githubusercontent.com/hellogriffalo/divine-careers/master/divine-careers/module.json",
+  "manifest": "https://raw.githubusercontent.com/hellogriffalo/divine-careers/module.json",
   "download": "https://github.com/hellogriffalo/divine-careers/blob/master/divine-careers.zip" 
 }
